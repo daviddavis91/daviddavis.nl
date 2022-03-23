@@ -1,5 +1,3 @@
-Website by David Davis.
-
 THEME: Explorer - Free Bootstrap Theme
 AUTHOR: uiCookies.com
 AUTHOR URI: https://uiCookies.com/
@@ -9,7 +7,7 @@ VERSION: 1.0
 CREDITS:
 
 Bootstrap
-https://getbootstrap.com/
+http://getbootstrap.com/
 
 jQuery
 http://jquery.com/
